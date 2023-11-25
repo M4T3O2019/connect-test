@@ -1,2 +1,1 @@
-# connect-test
-Test to connect witch my computer.
+# Proyecto_RaspberryPi3
